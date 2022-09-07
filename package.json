@@ -1,0 +1,24 @@
+{
+  "name": "random-departmentsofcolombia",
+  "version": "1.0.0",
+  "description": "random departments of colombia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniloCaro/random-departmentsOfColombia.git"
+  },
+  "keywords": [],
+  "author": "Danilo Caro <danilocaro23@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaniloCaro/random-departmentsOfColombia/issues"
+  },
+  "homepage": "https://github.com/DaniloCaro/random-departmentsOfColombia#readme",
+  "bin": {
+    "random-departmentsofcolombia": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
