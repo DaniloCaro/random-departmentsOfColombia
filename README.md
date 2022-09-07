@@ -11,7 +11,7 @@ npm install -g random-departmentsOfColombia
 # Usage
 
 ```bash
- random-departmentsOfColombia
+ random-departmentsofcolombia
 ```
 
 # Contributing
